@@ -19,7 +19,8 @@ int main() {
 	CandyBar snack = {"Mocha Munch", 2.3, 350};
 	cout << snack.namesweet << " " << snack.weight << " " << snack.caloriy << endl << endl;
 	cout << "Hello World" << endl;
-
+	cout << "Hello World2" << endl;
+	
 	system ("pause");
 	return 0; 
 }
