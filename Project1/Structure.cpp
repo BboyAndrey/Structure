@@ -25,6 +25,7 @@ int main() {
 	cout << "Hello World6" << endl;
 	
 	cout << endl;
+	cout << endl;
 	
 	cout << endl << endl << endl << endl << endl;
 	
