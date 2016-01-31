@@ -26,6 +26,8 @@ int main() {
 	
 	cout << endl;
 	
+	cout << endl << endl << endl << endl << endl;
+	
 	system ("pause");
 	return 0; 
 }
